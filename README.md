@@ -10,7 +10,7 @@ Swift 自定义弹出窗，想怎么弹，就怎么弹。
 
 | 名称 |1.列表页 |2.弹出页示例 |3.弹出页示例 |
 | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/49394070.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/43197086.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/14637275.jpg) |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/65879066.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/1613835.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-15/84045025.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 正常的弹出示例 | 嘿嘿嘿的弹出示例 |
 
 
