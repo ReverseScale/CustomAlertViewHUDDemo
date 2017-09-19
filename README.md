@@ -2,7 +2,7 @@
 Swift 自定义弹出窗，想怎么弹，就怎么弹。
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) 
-![](https://img.shields.io/badge/language-Swift--C-orange.svg) 
+![](https://img.shields.io/badge/language-swift-orange.svg) 
 ![](https://img.shields.io/badge/download-295K-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
