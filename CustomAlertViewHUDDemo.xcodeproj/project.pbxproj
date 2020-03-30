@@ -208,16 +208,18 @@
 				TargetAttributes = {
 					34F975751F6B7C5300B2D363 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 7QT42R489Z;
+						DevelopmentTeam = 6PA8SJWBRK;
 						ProvisioningStyle = Automatic;
 					};
 					34F975891F6B7C5300B2D363 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6PA8SJWBRK;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 34F975751F6B7C5300B2D363;
 					};
 					34F975941F6B7C5300B2D363 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6PA8SJWBRK;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 34F975751F6B7C5300B2D363;
 					};
@@ -228,6 +230,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -433,12 +436,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7QT42R489Z;
+				DEVELOPMENT_TEAM = 6PA8SJWBRK;
 				INFOPLIST_FILE = CustomAlertViewHUDDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.squirrelpay.CustomAlertViewHUDDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -446,12 +449,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7QT42R489Z;
+				DEVELOPMENT_TEAM = 6PA8SJWBRK;
 				INFOPLIST_FILE = CustomAlertViewHUDDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.squirrelpay.CustomAlertViewHUDDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -460,6 +463,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 6PA8SJWBRK;
 				INFOPLIST_FILE = CustomAlertViewHUDDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.squirrelpay.CustomAlertViewHUDDemoTests;
@@ -474,6 +478,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 6PA8SJWBRK;
 				INFOPLIST_FILE = CustomAlertViewHUDDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.squirrelpay.CustomAlertViewHUDDemoTests;
@@ -487,6 +492,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = 6PA8SJWBRK;
 				INFOPLIST_FILE = CustomAlertViewHUDDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.squirrelpay.CustomAlertViewHUDDemoUITests;
@@ -500,6 +506,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = 6PA8SJWBRK;
 				INFOPLIST_FILE = CustomAlertViewHUDDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.squirrelpay.CustomAlertViewHUDDemoUITests;
